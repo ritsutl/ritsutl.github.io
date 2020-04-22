@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>secret-organization on Ritsu TL</title>
-    <link>https://example.com/tags/secret-organization/</link>
+    <link>https://ritsu.dev/tags/secret-organization/</link>
     <description>Recent content in secret-organization on Ritsu TL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     
-	<atom:link href="https://example.com/tags/secret-organization/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ritsu.dev/tags/secret-organization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Secret Organization</title>
-      <link>https://example.com/index/secret-org/</link>
+      <link>https://ritsu.dev/index/secret-org/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/index/secret-org/</guid>
+      <guid>https://ritsu.dev/index/secret-org/</guid>
       <description></description>
     </item>
     
