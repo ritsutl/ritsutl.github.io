@@ -2,14 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://ritsu.dev/wn/secret-org/c25-2/</loc><lastmod>2020-04-28T21:19:42&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ritsu.dev/wn/secret-org/c25-1/</loc><lastmod>2020-04-27T17:18:31&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ritsu.dev/wn/secret-org/c24-1/</loc><lastmod>2020-04-27T17:18:31&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ritsu.dev/index/secret-org/</loc><lastmod>2020-04-23T06:40:15&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ritsu.dev/wn/secret-org/index/</loc><lastmod>2020-04-27T17:22:18&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ritsu.dev/wn/secret-org/index/</loc><lastmod>2020-04-28T21:19:42&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ritsu.dev/wn/secret-org/c24-2/</loc><lastmod>2020-04-27T17:18:31&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ritsu.dev/wn/secret-org/c24-3/</loc><lastmod>2020-04-24T18:33:55&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ritsu.dev/</loc><lastmod>2020-04-27T17:22:18&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ritsu.dev/wn/</loc><lastmod>2020-04-27T17:22:18&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ritsu.dev/</loc><lastmod>2020-04-28T21:19:42&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ritsu.dev/wn/</loc><lastmod>2020-04-28T21:19:42&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ritsu.dev/categories/</loc><lastmod>2020-04-27T17:18:31&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ritsu.dev/index/</loc><lastmod>2020-04-23T06:40:15&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ritsu.dev/categories/secret-organization/</loc><lastmod>2020-04-23T06:40:15&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
